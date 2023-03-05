@@ -1,0 +1,16 @@
+.card {
+    background: white;
+    box-shadow: 10px 10px 47px -12px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 47px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 47px -12px rgba(0,0,0,0.75);
+    border-radius: 30px;
+    position: relative;
+}
+
+.oferta {
+    position: absolute;
+    padding: 35px;
+    top: 0;
+    right: 0;
+    color: wheat;
+}

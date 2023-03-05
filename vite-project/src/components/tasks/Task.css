@@ -1,0 +1,10 @@
+.done {
+    text-decoration: line-through;
+}
+
+.fondo-card {
+    background-color: white;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}

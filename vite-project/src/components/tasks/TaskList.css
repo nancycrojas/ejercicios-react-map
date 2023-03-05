@@ -1,0 +1,9 @@
+.fondo {
+    background: #8600ff;
+    background: linear-gradient(0deg,#8600ff 0%, #00daff 80%);
+    background: -webkit-linear-gradient(0deg,#8600ff 0%, #00daff 80%);
+    background: -moz-linear-gradient(0deg,#8600ff 0%, #00daff 80%);
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
